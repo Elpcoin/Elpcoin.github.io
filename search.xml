@@ -1,45 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>第一篇 测试</title>
-      <link href="/2021/09/01/%E7%AC%AC%E4%B8%80%E7%AF%87-%E6%B5%8B%E8%AF%95/"/>
-      <url>/2021/09/01/%E7%AC%AC%E4%B8%80%E7%AF%87-%E6%B5%8B%E8%AF%95/</url>
-      
-        <content type="html"><![CDATA[<h1 id="打光"><a href="#打光" class="headerlink" title="打光"></a>打光</h1><ul><li>3200K - 低色温 （木纹暖）</li><li>5600k - 高色温 （雨天冷）</li><li>2000k - 3000k 日落</li><li>6000k - 7000k 阴天</li></ul>]]></content>
-      
-      
+<search>
+  <entry>
+    <title>welcome come ！</title>
+    <url>/2021/08/01/hello-world/</url>
+    <content><![CDATA[<h1 id="这里是兴趣使然的Elpcoin"><a href="#这里是兴趣使然的Elpcoin" class="headerlink" title="这里是兴趣使然的Elpcoin"></a>这里是兴趣使然的Elpcoin</h1><p>小小的测试一下</p>
+<ul>
+<li>语法</li>
+</ul>
+<ul>
+<li>测试</li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>第一篇 测试</title>
+    <url>/2021/09/01/%E7%AC%AC%E4%B8%80%E7%AF%87-%E6%B5%8B%E8%AF%95/</url>
+    <content><![CDATA[<h1 id="打光"><a href="#打光" class="headerlink" title="打光"></a>打光</h1><ul>
+<li>3200K - 低色温 （木纹暖）</li>
+<li>5600k - 高色温 （雨天冷）</li>
+<li>2000k - 3000k 日落</li>
+<li>6000k - 7000k 阴天</li>
+</ul>
+]]></content>
       <categories>
-          
-          <category> test </category>
-          
+        <category>test</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 测试 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>welcome come ！</title>
-      <link href="/2021/08/01/hello-world/"/>
-      <url>/2021/08/01/hello-world/</url>
-      
-        <content type="html"><![CDATA[<h1 id="这里是兴趣使然的Elpcoin"><a href="#这里是兴趣使然的Elpcoin" class="headerlink" title="这里是兴趣使然的Elpcoin"></a>这里是兴趣使然的Elpcoin</h1><p>小小的测试一下</p><ul><li>语法</li></ul><ul><li>测试</li></ul>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>测试</tag>
+      </tags>
+  </entry>
 </search>
